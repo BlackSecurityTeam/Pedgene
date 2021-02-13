@@ -20,3 +20,22 @@ pedege is a information Gathering tool that help you to get some information abo
 - WebSite Information
 - Port Scanner
 - Show HTTP Header
+
+
+
+
+
+# Tested On 
+- Windows 10 X64
+- Kali 2020.4
+- Windows 7 x32
+
+# Installation
+## Linux
+```
+git clone http://github.com/BlackSecurityTeam/Pedgene.git
+cd Pedgene/
+apt update
+apt install python3 python3-pip php
+pip3 install -r requirement.txt
+```

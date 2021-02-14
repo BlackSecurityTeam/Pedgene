@@ -38,4 +38,5 @@ cd Pedgene/
 apt update
 apt install python3 python3-pip php
 pip3 install -r requirement.txt
+python3 main.py
 ```

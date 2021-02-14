@@ -16,7 +16,7 @@ def admin_finder(domain,GREEN,RED,RESET):
     for page in pages :
         full_address = url+"/"+page
 
-        if session.get(full_address, proxies={'http': 'socks5://127.0.0.1:9150'}).status_code == 200:
+        if session.get(full_address).status_code == 200:
             print(f" {GREEN} {full_address} is Exsists ====> 200 {RESET}")
         else :
             print(f" {RED} {full_address} is Not Exsists ====> 404 {RESET} ")    

@@ -43,7 +43,9 @@ python3 main.py
 ## Windows
 ```
 Download and Install Python3 =======> https://www.python.org/ftp/python/3.9.1/python-3.9.1-amd64.exe
+
 Download php ========> https://windows.php.net/downloads/releases/php-8.0.2-nts-Win32-vs16-x64.zip
+
 Copy PHP to C:\\ and rename folder to php8  and add C:\php8 to environment variables (Path)
 
 git clone http://github.com/BlackSecurityTeam/Pedgene.git

@@ -3,5 +3,5 @@ requests
 dnspython
 pyngrok
 ipwhois
-whois
+python-whois
 builtwith

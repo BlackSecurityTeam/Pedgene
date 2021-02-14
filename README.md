@@ -57,4 +57,20 @@ python main.py
 Youtube : https://www.youtube.com/
 # Special Thanks to
 
+```
+Mohammad Roshanifar
+Mehrshad Mohammadi
+and Other Guys
+```
+
 # Contact us
+
+
+WebSite : https://blacksecurityteam.com/
+
+Telegram : https://t.me/Black_Security
+
+Instagram : https://www.instagram.com/blacksecurityteam/
+
+YouTube : https://www.youtube.com/channel/UClFnyD0CFziM0z6aUoHc22g/
+

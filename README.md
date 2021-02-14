@@ -80,6 +80,4 @@ YouTube : https://www.youtube.com/channel/UClFnyD0CFziM0z6aUoHc22g/
 bitcoin Wallet : 172fGbw6y5NxHphfQBqRVhoP6NrPfb4dfo
 ethereum Wallet :  0xa573980A1309F9e3bb3fdACA3F49323d78052b7A
 Tether Wallet : 0xa573980A1309F9e3bb3fdACA3F49323d78052b7A
-
-
 ```

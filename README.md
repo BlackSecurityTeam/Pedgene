@@ -54,7 +54,7 @@ pip install -r requirement.txt
 python main.py
 ```
 # Video Tutorial
-Youtube : https://www.youtube.com/
+Youtube : https://youtu.be/vZqQs2dJELw
 # Special Thanks to
 
 ```

@@ -8,7 +8,7 @@ Information Gathering Tool
 
 
 # What is PEDGENE
-pedege is a information Gathering tool that help you to get some information about Your Target
+pedege is an information Gathering tool that help you to get some information about Your Target
 
 # Features
 - Whois Domain
